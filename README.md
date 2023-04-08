@@ -13,7 +13,7 @@
 - 筑波大生(情報科学類3年)
 - コンピュータが好きです
 - Code for Kusatsuメンバー
-- シビックテック分野で活動しています
+- システムプログラミングやクラウド実行基盤、ロボットに関心があります
 - 未踏ジュニア2020スーパークリエータ
 
 ### 受賞,修了,講演など
@@ -25,6 +25,7 @@
 
 ほか
 ### Skills
+- Rust
 - Node.js
 - Web frontend (Nuxt.jsほか)
 - Embedded programming (C,C++,ARM Assembly)

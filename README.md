@@ -32,7 +32,7 @@
 
 
 ### For More Info:
-- Portfolio: [portfolio.yuseiito.com](https://portfolio.yuseiito.com/)
+- Portfolio: [portfolio.yuseiito.com](https://wantedly.com/id/yuseiito)
 - Twitter: [@yuseiito_](https://twitter.com/yuseiito_)
 - Facebook: [yusei.ito](https://facebook.com/yusei.ito)
 - Email: [me@yuseiito.com](mailto:me@yuseiito.com)

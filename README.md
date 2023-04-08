@@ -25,7 +25,7 @@
 
 ほか
 ### Skills
-- Node.js (JavaScript / TypeScript)
+- Node.js
 - Web frontend (Nuxt.jsほか)
 - Embedded programming (C,C++,ARM Assembly)
 - ほか

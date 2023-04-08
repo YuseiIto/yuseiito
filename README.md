@@ -33,7 +33,7 @@
 
 ### For More Info:
 - Portfolio: [portfolio.yuseiito.com](https://portfolio.yuseiito.com/)
-- Twitter: [@ItyuJ](https://twitter.com/ityuj)
+- Twitter: [@yuseiito_](https://twitter.com/yuseiito_)
 - Facebook: [yusei.ito](https://facebook.com/yusei.ito)
 - Email: [me@yuseiito.com](mailto:me@yuseiito.com)
 

@@ -1,40 +1,17 @@
 ## Yusei Ito
-伊藤祐聖です。
+
+「おもしろ工作おじさん」を目指しています。 ものづくりや情報学に関心があります。
+
+[![Yusei Ito](https://yuseiito.com/thumbnail.jpg)](https://yuseiito.com)
+
 
 [![](https://raw.githubusercontent.com/yuseiito/yuseiito/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](https://komarev.com/ghpvc/?username=yuseiito&color=719CAA)
 
-
-
-
-### Profile
-- 2002年生まれ
-- 筑波大生(情報科学類3年)
-- コンピュータが好きです
-- Code for Kusatsuメンバー
-- システムプログラミングやクラウド実行基盤、ロボットに関心があります
-- 未踏ジュニア2020スーパークリエータ
-
-### 受賞,修了,講演など
-- U-22プログラミングコンテスト　経済産業省商務情報制作局長賞 (2017年,中3)
-- RoboCup Junior Soccer Lightweight世界3位(所属チーム LEGENDにて)
-- UCL-Japan Youth Challenge 2019修了
-- セキュリティキャンプ2019修了
-- 第91回　滋賀大学データサイエンスセミナー講師
-
-ほか
-### Skills
-- Rust
-- Node.js
-- Web frontend (Nuxt.jsほか)
-- Embedded programming (C,C++,ARM Assembly)
-- ほか
-
-
 ### For More Info:
-- Portfolio: [portfolio.yuseiito.com](https://wantedly.com/id/yuseiito)
-- Twitter: [@yuseiito_](https://twitter.com/yuseiito_)
+- Website: [yuseiito.com](https://yuseiito.com)
+- X: [@yuseiito_](https://twitter.com/yuseiito_)
 - Facebook: [yusei.ito](https://facebook.com/yusei.ito)
 - Email: [me@yuseiito.com](mailto:me@yuseiito.com)
 

@@ -1,7 +1,7 @@
 ## Yusei Ito
 
 
-[<img alt="Yusei Ito's Website" src="https://yuseiito.com/thumbnail.jpg">](https://yuseiito.com)
+[<img alt="Yusei Ito's Website" src="https://yuseiito.com/thumbnail.jpg" height="300">](https://yuseiito.com)
 
 
 [![](https://raw.githubusercontent.com/yuseiito/yuseiito/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -11,6 +11,7 @@
 ### For More Info:
 - Website: [yuseiito.com](https://yuseiito.com)
 - X: [@yuseiito_](https://twitter.com/yuseiito_)
+- Instagram: [yusei_ito](https://instagram.com/yusei_ito)
 - Facebook: [yusei.ito](https://facebook.com/yusei.ito)
 - Email: [me@yuseiito.com](mailto:me@yuseiito.com)
 

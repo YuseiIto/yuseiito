@@ -1,8 +1,7 @@
 ## Yusei Ito
 
-「おもしろ工作おじさん」を目指しています。 ものづくりや情報学に関心があります。
 
-[![Yusei Ito](https://yuseiito.com/thumbnail.jpg)](https://yuseiito.com)
+[<img alt="Yusei Ito's Website" src="https://yuseiito.com/thumbnail.jpg">](https://yuseiito.com)
 
 
 [![](https://raw.githubusercontent.com/yuseiito/yuseiito/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
